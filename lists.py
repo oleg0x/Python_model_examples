@@ -1,5 +1,7 @@
 #! /usr/bin/python
 
+x = []
+print(x)
 x = [1, 2, 2.718, "four", "five", ['a', 'b', 'c']]
 print(x)
 print("Lenght of the list:", len(x))
